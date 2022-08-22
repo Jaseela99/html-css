@@ -40,14 +40,14 @@ html,body{ box-sizing: border-box;
     
 
 }
-.home{
+/* .home{ */
     /*flex-grow: 1;
     flex-basis: 1;
     flex:1;
     flex-shrink: 0;*/
     
     
-}
+/* } */
 .search{  flex:1;
     /*order:-1;
     flex-grow: 1;
@@ -56,13 +56,13 @@ html,body{ box-sizing: border-box;
     flex-shrink: 1;*/
     
 }
-.logout{ /*flex-grow: 1;   
+/*.logout{ flex-grow: 1;   
     flex-basis: 0;
     flex:1;
     flex-shrink: 1;
     margin-left: auto;
-    align-self:center;*/
-}
+    align-self:center;
+}*/
 .container>div{
     padding:10px;
     text-align: center;
